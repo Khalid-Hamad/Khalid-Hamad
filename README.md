@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @Khalid-Hamad
-- 👀 I’m interested in code
-- 🌱 I’m currently learning AI & ML
-- 📫 How to reach me by Email k.h.alsubaiei@gmail.com or +966550112880 
+👋 Hi Hi there, I’m Khalid Alsubaie (within I)
+
+- 👀 I'm currently working on something cool!
+- 🌱 Learning... is my lifestyle.
+- I'm intreted in (AI & ML and DSLC)
+- 📫 Contact me by:
+          Email k.h.alsubaie@outlook.com  
 
 <!---
 Khalid-Hamad/Khalid-Hamad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
