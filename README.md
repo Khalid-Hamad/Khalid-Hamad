@@ -4,7 +4,7 @@
 - 🌱 Learning... is my lifestyle.
 - I'm intreted in (AI & ML and DSLC)
 - 📫 Contact me by:
-          Email k.h.alsubaie@outlook.com  
+          Email dev@im.dev 
 
 <!---
 Khalid-Hamad/Khalid-Hamad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
